@@ -16,9 +16,22 @@ o Generate reports on course performance and student progress.
 <br>
 o Create and manage course content, assignments, and exams.
 <br>
-o Track student progres
+o Track student progress and provide feedback.
 <br>
-
+o View course enrollments and manage schedules.
+<br>
+o Manage personal profile and availability.
+<br>
+• Student:
+<br>
+o Enroll in courses and track learning progress.
+<br>
+o Complete assignments, exams, and view grades.
+<br>
+o Make payments for courses and manage subscriptions.
+<br>
+o Update personal details and manage account settings.
+<br>
 
 Code:
 <br>
